@@ -5,7 +5,7 @@ Extracting specific data from an xml file by using parsing and printing it.
 ## Task Performed:
 
 The task to perform was to extract different data from the xml file. The file contained different Book IDs and other details like author, price, date etc. of each of the books.
-Each book tag contained further child tags. So we can either print the child tag and attributes with the help of for loop or store each of the text of provided tags and then print them. (second method done in the code)
+Each book tag contained further child tags. So, I can either print the child tag and attributes with the help of for loop or store each of the text of provided tags and then print them. (second method done in the code)
 
 ## Modules that can be used:
 
