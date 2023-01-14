@@ -22,7 +22,7 @@ The name of xml file is compiler.xml.
 
 Now different methods can be used to extract data from the file. I have used a for loop in which the text of provided tags is stored and then is printed. 
 
-The loop runs for the number of `book` tag in the xml file, it will run for all the book tags (book ids) that are in the xml file. And all the data of each book id is stored and then displayed at the end. Each loop gives the detail of one book.
+The loop runs for the number of `book` tags in the xml file, it will run for all the book tags (book ids) that are in the xml file. And all the data of each book id is stored and then displayed at the end. Each loop gives the detail of one book.
 
 
 ## Creating Excel File
