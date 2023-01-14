@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET      #Creating Aias for ease
 mytree = ET.parse("compiler.xml")       #Parsing the xml file
                     #Split into pieces
 
-for info in mytree.findall("book"):
+for info in mytree.findall("book"):         #Finds book tag and then
 
     print("\n\t\t*-*-*-Displaying Information-*-*-*\n\n"
         "Book ID:", info.attrib)        #Printing book id attribute
