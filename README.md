@@ -18,6 +18,13 @@ I have used ElementTree module in this code. Imported the module and setup a var
 
 ## Working:
 
-Now different methodscan be used to extract data from the file. I have used a for loop in which the text of provided tags is stored and then is printed. 
+The name of xml file is compiler.xml.
+
+Now different methods can be used to extract data from the file. I have used a for loop in which the text of provided tags is stored and then is printed. 
 
 The loop runs for the number of `book` tag in the xml file, it will run for all the book tags (book ids) that are in the xml file. And all the data of each book id is stored and then displayed at the end. Each loop gives the detail of one book.
+
+
+## Creating Excel File
+
+We extract the data from the xml file and convert it into excel file (xlsx).
